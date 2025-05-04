@@ -1,7 +1,7 @@
 id=a-module
 name=A-module
 version=0.0.1
-versionCode=00100
+versionCode=00101
 author=S
 description=This is A-module
 updateJson=https://sky4si.github.io/A-module/1.json
